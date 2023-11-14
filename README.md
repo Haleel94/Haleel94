@@ -8,7 +8,7 @@ I have a bachelors degree in Physics currently i am transitioning to Machine lea
 
 *   🌍  I'm based in Novosibirsk, Russia
 *   ✉️  You can contact me at [maishanuhaleel@gmail.com](mailto:maishanuhaleel@gmail.com)
-*   🧠  I'm learning Supervised ML
+*   🧠  I'm learning Supervised and Unsupervised ML
 *   🤝  I'm open to collaborating on Interesting projects
   ###  Skills 
 <p align="left">
